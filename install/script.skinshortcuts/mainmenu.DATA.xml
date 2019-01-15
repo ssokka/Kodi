@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>최근</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/0-recently.png</thumb>
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>x1101</defaultID>
+		<label>20342</label>
+		<label2>Hub 1101</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb>special://skin/extras/icons/0-movie.png</thumb>
+		<action>ActivateWindow(1101)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>x1102</defaultID>
+		<label>20343</label>
+		<label2>Hub 1102</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb>special://skin/extras/icons/0-tvshow.png</thumb>
+		<action>ActivateWindow(1102)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>드라마</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/0-drama.png</thumb>
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>애니메이션</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/0-animation.png</thumb>
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>어린이</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/0-kid.png</thumb>
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>weather</defaultID>
+		<label>8</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/sun.png</icon>
+		<thumb>special://skin/extras/icons/0-weather.png</thumb>
+		<action>ActivateWindow(Weather)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>애드온</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb>special://skin/extras/icons/0-addons.png</thumb>
+		<action>ActivateWindow(Programs)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>10004</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb>special://skin/extras/icons/0-settings.png</thumb>
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>33060</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb>special://skin/extras/icons/0-power.png</thumb>
+		<action>ActivateWindow(shutdownmenu)</action>
+	</shortcut>
+</shortcuts>
