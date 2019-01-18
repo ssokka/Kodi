@@ -1,7 +1,0 @@
-		<!-- SSOKKA -->
-		<control type="image">
-			<posy>18</posy>
-			<width>100%</width>
-			<height>164</height>
-			<texture colordiffuse="$INFO[Skin.String(HomeBarColor)]">common/white.png</texture>
-		</control>
