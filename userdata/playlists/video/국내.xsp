@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <smartplaylist type="tvshows">
-	<name>국내</name>
+	<name></name>
 	<match>all</match>
 	<rule field="path" operator="contains">
 		<value>/%EA%B5%AD%EB%82%B4/</value>
