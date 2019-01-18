@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <smartplaylist type="tvshows">
-	<name>우리말 더빙</name>
+	<name>국외</name>
 	<match>all</match>
 	<rule field="path" operator="contains">
-		<value>/%EC%9A%B0%EB%A6%AC%EB%A7%90%20%EB%8D%94%EB%B9%99/</value>
+		<value>/%EA%B5%AD%EC%99%B8/</value>
 	</rule>
 	<order direction="descending">dateadded</order>
 </smartplaylist>
