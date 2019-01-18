@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="tvshows">
+	<name>드라마</name>
+	<match>all</match>
+	<rule field="path" operator="contains">
+		<value>/%EB%93%9C%EB%9D%BC%EB%A7%88/</value>
+	</rule>
+	<order direction="descending">dateadded</order>
+</smartplaylist>
