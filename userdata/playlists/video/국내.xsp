@@ -3,7 +3,7 @@
 	<name>국내</name>
 	<match>all</match>
 	<rule field="path" operator="contains">
-		<value>/%EA%B5%AD%EB%82%B4/</value>
+		<value>/국내/</value>
 	</rule>
 	<order direction="descending">dateadded</order>
 </smartplaylist>
