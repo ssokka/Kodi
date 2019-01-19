@@ -5,5 +5,5 @@
 	<rule field="path" operator="contains">
 		<value>/%EB%8B%A4%ED%81%90/</value>
 	</rule>
-	<order direction="descending">dateadded</order>
+	<order direction="ascending">dateadded</order>
 </smartplaylist>
